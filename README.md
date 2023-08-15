@@ -14,9 +14,18 @@
 
 ### 安装依赖
 
-在命令行中使用以下命令安装所需库：
+下载源码后完整解压得到文件夹
+进入文件夹后在上方点击![image](https://github.com/Nothingness-Void/GPTinBlive/assets/55913486/ed9fdb93-9143-4dbb-87ed-23a8097ec397)
+输入`cmd`打开命令提示符
+在命令提示符中使用以下命令安装所需库：
 
 `pip install -r requirements.txt`
+
+**或**
+
+直接复制文件夹路径按`win`+`r`输入`cmd`打开命令提示符
+输入`cd 刚才复制的路径`
+并执行上述安装命令
 
 ### 使用
 
