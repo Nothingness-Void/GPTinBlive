@@ -1,0 +1,5 @@
+bilibili-api
+pygame
+requests
+apscheduler
+edge-tts
