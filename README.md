@@ -35,7 +35,7 @@
 1. 用代码编辑工具打开main.py文件。
 2. 在# ChatGPT API的URL和密钥中设置api链接（这个可以不改）和你的APIKey
 3. 按照您的意愿调整机器人的预设。
-4. 用Python运行main.py文件。
+4. 用Python运行main.py文件。(cmd内输入 `python main.py`)
 5. 输入要连接的B站直播间编号。
 6. 按下`Enter`键开始监听弹幕流。
 
