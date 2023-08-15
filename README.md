@@ -40,7 +40,7 @@
 6. 按下`Enter`键开始监听弹幕流。
 
 
-##特别感谢
+## 特别感谢
 
 启发项目 `https://github.com/yxc0915/GPTForBiliBiliLive` 
 
